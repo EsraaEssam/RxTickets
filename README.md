@@ -6,4 +6,4 @@ with Rx](https://www.pluralsight.com/courses/dotnet-code-rx-taming-asynchronous)
 
 The TicketsDashboardVM class combines the text entered by the user in the search bar and shows only the tickets with a title containing the text entered by the user, while taking into consideration whethter the user wants to view closed ticket or not.
 
-[ApplicationUIExample](./Assets/SearchExample.png)
+![ApplicationUIExample](./Assets/SearchExample.png)
